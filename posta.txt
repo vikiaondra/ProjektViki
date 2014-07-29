@@ -1,2 +1,3 @@
 api pro postu
 HOTOVO
+OPRAVA BYLA TAM CHYBA HOTOVO
